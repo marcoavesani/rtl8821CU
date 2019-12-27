@@ -1,5 +1,5 @@
 # Realtek RTL8811CU/RTL8821CU USB wifi adapter driver version 5.4.1 for Linux 4.4.x up to 5.5.x
-
+## Support added for Raspberry Pi 3 and ARMv8
 Before build this driver make sure `make`, `gcc`, `linux-header` and `git` have been installed.
 
 ## First, clone this repository
